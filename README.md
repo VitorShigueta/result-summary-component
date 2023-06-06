@@ -13,7 +13,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/VitorShigueta/result-summary-component)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Live Site URL: [Site](https://thunderous-khapse-511581.netlify.app/)
 
 ## My process
 
