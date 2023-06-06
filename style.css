@@ -12,8 +12,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    width: 100vw;    
+    min-height: 100vh;
+    min-width: 100vw;    
 }
 
 main {
@@ -168,3 +168,21 @@ button:active , button:hover {
     background: rgb(120,87,255);
     background: linear-gradient(180deg, rgba(120,87,255) 0%, rgba(46,43,233) 100%);;
 }
+
+@media only screen and (max-width: 600px) {
+    .card {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        border-radius: 0px 0px 18px 18px;
+    }
+
+    .result {
+        width: 100%;
+        border-radius: 0px 0px 18px 18px;
+    }
+
+    .summary {
+        width: 100%;
+    }
+  }
